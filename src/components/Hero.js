@@ -24,7 +24,7 @@ const Hero = () => {
         variants={container}
         initial="hidden"
         whileInView={"show"}
-        className="container mx-auto  min-h-[40vh] lg:h-full flex items-center justify-center xl:justify-end"
+        className="container mx-auto min-h-[40vh] lg:h-full flex items-center justify-center xl:justify-end"
       >
         <div className="text-white text-center lg:text-left lg:max-w-[640px]">
           <motion.h1 variants={fadeIn("down")} className="h1">
