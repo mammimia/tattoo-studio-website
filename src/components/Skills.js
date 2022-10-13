@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import { CircularProgressbar } from "react-circular-progressbar";
+import React from "react";
 import { useInView } from "react-intersection-observer";
 import "react-circular-progressbar/dist/styles.css";
 import { motion } from "framer-motion";

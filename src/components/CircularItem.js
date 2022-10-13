@@ -27,7 +27,7 @@ const CircularItem = ({ inView, value, title }) => {
     } else {
       setFullBody(0);
     }
-  }, [inView, barValue]);
+  }, [inView, barValue, value]);
 
   return (
     <div className="bg-pink w-[150x] lg:w-[275px] flex flex-col item-center gap-y-6">
