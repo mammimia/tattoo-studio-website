@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tattoo-studio-website/static/css/main.4ae2dae1.css",
+    "main.js": "/tattoo-studio-website/static/js/main.bccc43b3.js",
+    "static/media/bg.jpg": "/tattoo-studio-website/static/media/bg.68c3d0ba0d3b84097d3e.jpg",
+    "static/media/bg.png": "/tattoo-studio-website/static/media/bg.68f5f1a639f5898db5b5.png",
+    "static/media/8.png": "/tattoo-studio-website/static/media/8.dc47892fcafd4c2f6dc2.png",
+    "static/media/2.png": "/tattoo-studio-website/static/media/2.9998fba1f2ca8dd9b3ed.png",
+    "static/media/4.png": "/tattoo-studio-website/static/media/4.4d00d6c9e5a09d782e6e.png",
+    "static/media/7.png": "/tattoo-studio-website/static/media/7.01414a6132fe75ab3523.png",
+    "static/media/5.png": "/tattoo-studio-website/static/media/5.d471b4ad6ce07b37c309.png",
+    "static/media/3.png": "/tattoo-studio-website/static/media/3.cda52efe97d7ddc5f83c.png",
+    "static/media/1.png": "/tattoo-studio-website/static/media/1.e275c0605b88a10f7cab.png",
+    "static/media/6.png": "/tattoo-studio-website/static/media/6.ec63f2310863d075246e.png",
+    "static/media/image.png": "/tattoo-studio-website/static/media/image.4b518de5e61cd5ea58a1.png",
+    "static/media/logo.svg": "/tattoo-studio-website/static/media/logo.370aa0cf12438dc3e329efb0bbcf2969.svg",
+    "static/media/outline-text.svg": "/tattoo-studio-website/static/media/outline-text.20c01f3b78e7e9864ab2.svg",
+    "static/media/quote.svg": "/tattoo-studio-website/static/media/quote.b6c84129796166895505ca1a3ba52a66.svg",
+    "index.html": "/tattoo-studio-website/index.html",
+    "main.4ae2dae1.css.map": "/tattoo-studio-website/static/css/main.4ae2dae1.css.map",
+    "main.bccc43b3.js.map": "/tattoo-studio-website/static/js/main.bccc43b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ae2dae1.css",
+    "static/js/main.bccc43b3.js"
+  ]
+}
