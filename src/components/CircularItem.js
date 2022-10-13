@@ -23,7 +23,7 @@ const CircularItem = ({ inView, value, title }) => {
         if (barValue < value) {
           setFullBody(barValue + 1);
         }
-      }, 50);
+      }, 35);
     } else {
       setFullBody(0);
     }
