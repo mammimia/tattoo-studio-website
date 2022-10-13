@@ -6,7 +6,7 @@ This is a Tattoo Studio Website project. It was developed for learning purposes.
 
 You can click the link below to see the live version.
 
-https://mammimia.github.io/minecraft-clone/
+https://mammimia.github.io/tattoo-studio-website/
 
 ## Tech Stack
 
